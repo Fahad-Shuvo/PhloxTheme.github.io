@@ -1,0 +1,162 @@
+.av3_container {
+    direction:ltr;
+}
+
+.av3_option_panel {
+    font-family:tahoma;
+}
+
+.av3_container input[type="text"],
+.av3_container input[type="password"],
+.av3_container input[type="email"],
+.av3_container input[type="tel"],
+.av3_container input[type="url"],
+.av3_container textarea,
+.av3_container select {
+    font-family:tahoma;
+    text-align:right;
+    direction:rtl;
+}
+
+.av3_option_panel input[type="text"],
+.av3_option_panel input[type="url"],
+.av3_option_panel input[type="email"],
+.av3_option_panel input[type="tel"],
+.av3_option_panel input[type="password"],
+.av3_option_panel .tabs-content textarea {
+    font-family:tahoma;
+    text-align:right;
+    direction:rtl;
+}
+.av3_container       .miniColors,
+.av3_option_panel .miniColors,
+#auxin_user_custom_css,
+#auxin_user_custom_js,
+#auxin_user_custom_head {
+    text-align:left !important;
+    direction:ltr   !important;
+}
+
+.av3_container .uploader > input[type="text"] {
+    text-align:left;
+    direction:ltr;
+}
+
+.av3_container select {
+  padding-right:42px;
+}
+.pb_popup .pb_s_m label {
+    font-size: 15px;
+}
+.av3_container .section-row > label {
+    font-family: tahoma, sans-serif;
+}
+ul.elements_wrapper .symbol_block h5 {
+    font-family:tahoma;
+}
+/* page builder alignment*/
+.g1_4, .g1_3, .g1_2, .g2_3, .g3_4, .g1_1, .g1 {
+    float:right;
+}
+ul.elements_wrapper .controls > span {
+    width: 70px;
+    font-family:tahoma;
+}
+
+/* price table builder alignment */
+.pt_inner div.pt_cells {
+    float: right;
+}
+.pt_inner .pt_add_col {
+    left:auto;
+    right:133px;
+}
+.av3_container .pt_wrapper p {
+    text-align: right;
+}
+
+.axiAdminIcon-bottom-right:before {
+  content: "\f10e";
+}
+
+.axiAdminIcon-bottom-left:before {
+  content: "\f110";
+}
+
+.axiAdminIcon-center-right:before {
+  content: "\f113";
+}
+
+.axiAdminIcon-center-left:before {
+  content: "\f114";
+}
+
+.axiAdminIcon-right-top:before {
+  content: "\f127";
+}
+
+.axiAdminIcon-mid-right:before {
+  content: "\f128";
+}
+
+.axiAdminIcon-mid-left:before {
+  content: "\f12a";
+}
+
+.axiAdminIcon-left-center:before {
+  content: "\f134";
+}
+
+.axiAdminIcon-left-top:before {
+  content: "\f135";
+}
+
+.axiAdminIcon-sidebar-right-right:before {
+  content: "\f13a";
+}
+
+.axiAdminIcon-sidebar-right-left:before {
+  content: "\f13b";
+}
+
+.axiAdminIcon-sidebar-right:before {
+  content: "\f13c";
+}
+
+.axiAdminIcon-sidebar-left-left:before {
+  content: "\f13e";
+}
+
+.axiAdminIcon-sidebar-left:before {
+  content: "\f13f";
+}
+
+.axiAdminIcon-text-align-right:before {
+  content: "\f142";
+}
+
+.axiAdminIcon-text-align-left:before {
+  content: "\f143";
+}
+
+.axiAdminIcon-top-right:before {
+  content: "\f145";
+}
+
+.axiAdminIcon-top-left:before {
+  content: "\f147";
+}
+
+.axi-visual-select .axi-select-item {
+    float: right;
+}
+
+.aux-about .three-col .col {
+  margin-right: 0;
+  margin-left: 16px !important;
+  float: right;
+}
+
+.aux-about.aux-feedback .aux-featur {
+  text-align: right;
+}
